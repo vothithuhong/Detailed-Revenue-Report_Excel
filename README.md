@@ -11,24 +11,27 @@ Nhìn chung, hoạt động kinh doanh đang mang lại kết quả tích cực 
 
 ## 2. Phân tích Chi tiết
 
-A. Hiệu suất theo Danh mục sản phẩm (Category)
+### A. Hiệu suất theo Danh mục sản phẩm (Category)
 
 Biểu đồ "Revenue & Profit by Category" cho thấy Bikes (Xe đạp) là mảng kinh doanh cốt lõi. Mảng này đóng góp áp đảo vào cả tổng doanh thu và lợi nhuận, vượt xa hoàn toàn so với hai mảng còn lại là Accessories (Phụ kiện) và Clothing (Quần áo).
 
-B. Cơ cấu khách hàng theo Nhóm tuổi (Age Group)
+### B. Cơ cấu khách hàng theo Nhóm tuổi (Age Group)
 
 Nhóm khách hàng Adults (Người trưởng thành 35-64 tuổi) là tệp khách hàng chủ lực, chiếm 50% tỷ trọng doanh thu.
+
 Nhóm Young Adults (25-34) và Youth (<25) chiếm phần lớn trong 50% còn lại, trong khi nhóm Seniors (64+) chỉ chiếm một phần vô cùng nhỏ (khoảng 1%).
 
-C. Xu hướng bán hàng theo thời gian (Monthly Trend)
+### C. Xu hướng bán hàng theo thời gian (Monthly Trend)
 
 Dữ liệu từ tháng 1 đến tháng 6 cho thấy một xu hướng tăng trưởng ổn định và tích cực đối với cả doanh thu và lợi nhuận.
+
 Đặc biệt, có sự bứt phá mạnh từ tháng 4 và đạt đỉnh vào tháng 6 (Doanh thu tháng 6: 3.586.300 | Lợi nhuận: 1.388.652). Điều này cho thấy tính mùa vụ hoặc hiệu quả của các chiến dịch thúc đẩy doanh số vào giữa năm.
 
-D. Hiệu quả theo Khu vực và Sản phẩm chi tiết
+### D. Hiệu quả theo Khu vực và Sản phẩm chi tiết
 Dựa trên các bảng số liệu chi tiết (Pivot Tables):
 
 Khu vực địa lý: California đang là khu vực dẫn đầu đáng kể trong tập dữ liệu hiển thị, tạo ra doanh thu hơn 17,6 triệu và lợi nhuận 7,7 triệu, vượt qua England và New South Wales.
+
 Sản phẩm nổi bật: Dòng xe "Road-150 Red, 62" đang dẫn đầu về mặt mang lại doanh thu (3.829.416). Tuy nhiên, dòng "Mountain-200 Black, 3" mới là sản phẩm mang lại lợi nhuận cao nhất (1.310.464) trong danh sách hiển thị.
 
 ## 3. Đề xuất chiến lược
